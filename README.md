@@ -1,2 +1,2 @@
-# myPortfolio
-Responsive portfolio website using html.css and js.
+This is my first portfolio website.
+Tools used : html,css,js
